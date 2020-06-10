@@ -1,0 +1,2 @@
+# Cereals-Demo
+GitHub Pages
